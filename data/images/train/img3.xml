@@ -1,7 +1,7 @@
 <annotation>
-	<folder>image2</folder>
+	<folder>video1_image</folder>
 	<filename>img3.jpg</filename>
-	<path>/home/jatan/Music/video2image/image2/img3.jpg</path>
+	<path>/home/jatan/Music/dataset annotation/video1_image/img3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>366</xmin>
-			<ymin>35</ymin>
-			<xmax>530</xmax>
-			<ymax>241</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toy</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>221</ymin>
-			<xmax>334</xmax>
-			<ymax>480</ymax>
+			<xmin>263</xmin>
+			<ymin>258</ymin>
+			<xmax>483</xmax>
+			<ymax>392</ymax>
 		</bndbox>
 	</object>
 </annotation>
