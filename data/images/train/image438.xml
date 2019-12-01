@@ -1,0 +1,38 @@
+<annotation>
+	<folder>video2_image</folder>
+	<filename>image438.jpg</filename>
+	<path>/home/jatan/Music/dataset annotation/video2_image/image438.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>254</ymin>
+			<xmax>422</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>251</ymin>
+			<xmax>76</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

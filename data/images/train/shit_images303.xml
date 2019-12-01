@@ -1,0 +1,38 @@
+<annotation>
+	<folder>video3_image</folder>
+	<filename>shit_images303.jpg</filename>
+	<path>/home/jatan/Music/dataset annotation/video3_image/shit_images303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>194</ymin>
+			<xmax>274</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>221</ymin>
+			<xmax>374</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
