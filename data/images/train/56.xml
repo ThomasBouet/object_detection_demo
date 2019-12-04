@@ -1,144 +1,110 @@
 <annotation>
-<folder>data</folder>
-<filename>56.jpg</filename>
-<path/>
-<source>
-<database>Unknown</database>
-</source>
-<size>
-<width>1024</width>
-<height>1024</height>
-<depth>3</depth>
-</size>
-<segmented>0</segmented>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>587</xmin>
-<ymin>208</ymin>
-<xmax>670</xmax>
-<ymax>469</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>784</xmin>
-<ymin>219</ymin>
-<xmax>944</xmax>
-<ymax>296</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>623</xmin>
-<ymin>520</ymin>
-<xmax>700</xmax>
-<ymax>773</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>779</xmin>
-<ymin>523</ymin>
-<xmax>864</xmax>
-<ymax>784</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>937</xmin>
-<ymin>507</ymin>
-<xmax>1028</xmax>
-<ymax>791</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>563</xmin>
-<ymin>3</ymin>
-<xmax>638</xmax>
-<ymax>167</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>725</xmin>
-<ymin>-2</ymin>
-<xmax>791</xmax>
-<ymax>155</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>882</xmin>
-<ymin>8</ymin>
-<xmax>952</xmax>
-<ymax>136</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>763</xmin>
-<ymin>864</ymin>
-<xmax>943</xmax>
-<ymax>904</ymax>
-</bndbox>
-</object>
-<object>
-<name>building</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<occluded>0</occluded>
-<difficult>0</difficult>
-<bndbox>
-<xmin>992</xmin>
-<ymin>207</ymin>
-<xmax>1025</xmax>
-<ymax>287</ymax>
-</bndbox>
-</object>
+	<folder>tiles</folder>
+	<filename>56.jpg</filename>
+	<path>/home/thomas/Bureau/annotated_image/tiles/56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>212</ymin>
+			<xmax>668</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>2</ymin>
+			<xmax>632</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>727</xmin>
+			<ymin>2</ymin>
+			<xmax>794</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>884</xmin>
+			<ymin>1</ymin>
+			<xmax>952</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>219</ymin>
+			<xmax>944</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>518</ymin>
+			<xmax>701</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>522</ymin>
+			<xmax>861</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>936</xmin>
+			<ymin>506</ymin>
+			<xmax>1023</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
 </annotation>
